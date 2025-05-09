@@ -2,6 +2,7 @@ Brian Dills
 
 👨‍💻 About Me
 Experienced Systems Engineer with a strong focus on cybersecurity, infrastructure stability, and enterprise system management. Nearly a decade of hands-on experience across corporate environments from local to international scale, specializing in creating secure, stable, and scalable IT solutions.
+
 🔒 Cybersecurity Focus
 
 Security Operations: Incident response, breach investigation, and remediation strategies
@@ -11,6 +12,7 @@ Certifications: ISC2 CISSP, CCSP, and CC certified
 
 🛠️ Technical Skills
 CategorySkillsVirtualizationvSphere, CitrixPMS SystemsOracle Cloud, Opera Hosted, EpitomeOperating SystemsServer 2012/R2, 2016, 2019, Windows 10/11SecurityCrowdStrike, Rapid7, Ivanti LanDesk, Sumo Logic, WazuhNetworkingFortigate Firewalls, Palo Alto Panorama, Remote Syslog MonitoringBackup & RecoveryVeeam, CohesityMonitoringAxonius, Orion Solarwinds, Sumo Logic, Wazuh (FIM)
+
 💼 Professional Journey
 
 Enterprise Systems Engineer | Kimpton Hotels and Restaurants
@@ -32,7 +34,6 @@ Director of IT | Zamora Hospitality Group
 Led transition from managed to independent property
 Achieved PCI compliance within 2 months
 Upgraded network infrastructure, O365, AD Domain, and guest wireless
-
 
 📚 Recent Certifications
 
